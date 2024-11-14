@@ -708,7 +708,7 @@
 ?>
 	<!-- copyright -->
 	<div class="cpy-right text-center">
-		<p>© 2018 Musical World. All rights reserved</p>
+		<p>© 2024 Musical World. All rights reserved</p>
 	</div>
     <!-- //copyright -->
     <!-- js-->

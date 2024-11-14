@@ -73,8 +73,8 @@ CREATE TABLE `favorite_songs` (
 );
 
 INSERT INTO `user` (`user_id`,`username`,`mobile_number`,`email_address`,`password`,`confirm_status`) VALUES
-    (1,'Sujith','9876543210', 'admin@gmail.com', 'c12b240b5710c6c9ee00ef4529803aac', 1),
-    (2,'Subramanya','9988776655', 'subramanyarao4@gmail.com', 'a8c6b82ae79f5f29899228ced196b1b7', 1);
+    (1,'Admin','9663904446', 'admin@gmail.com', '5f4dcc3b5aa765d61d8327deb882cf99', 1),
+    (2,'Thomas','8310715942', 'thomaszach001@gmail.com', '5f4dcc3b5aa765d61d8327deb882cf99', 1);
 
 INSERT INTO `category` (`cat_id`, `cat_name`) VALUES 
     ('1', 'kannada_albums'),

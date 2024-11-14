@@ -158,7 +158,7 @@
 							<div class="col-10">
 								<h6>email</h6>
 								<p>
-									<a href="mailto:example@email.com" class="text-dark">admin@musicalworld.com</a>
+									<a href="mailto:example@email.com" class="text-dark">thomaszach001@gmail.com</a>
 								</p>
 							</div>
 						</div>
@@ -170,7 +170,7 @@
 							</div>
 							<div class="col-10">
 								<h6>phone</h6>
-								<p>+91 7899496873</p>
+								<p>+91 8310715942</p>
 							</div>
 						</div>
 					</div>
@@ -181,7 +181,7 @@
 							</div>
 							<div class="col-10">
 								<h6>address</h6>
-								<p>DSI Labz | Adyar Mangalore</p>
+								<p>PES UNIVERSITY ECC</p>
 							</div>
 						</div>
 					</div>
@@ -230,7 +230,7 @@
 	<!-- //contact -->
 	<!-- copyright -->
 	<div class="cpy-right text-center">
-		<p>© 2018 Musical World. All rights reserved</p>
+		<p>© 2024 Musical World. All rights reserved</p>
 	</div>
     <!-- //copyright -->
 

@@ -105,7 +105,7 @@ if(isset($_POST['login'])){
                 echo 'setTimeout(function () { sweetAlert("Warning...","Please activate your account first!..","warning");';
                 echo '}, 500);</script>';
             }else{
-                    if($row['email_address'] == 'admin@gmail.com' && $row['password'] == 'c12b240b5710c6c9ee00ef4529803aac'){
+                    if($row['email_address'] == 'admin@gmail.com' && $row['password'] == '5f4dcc3b5aa765d61d8327deb882cf99'){
                         $_SESSION['username']=$username;
                         $_SESSION['email_address'] = $email_address;
                         header('location:admin_page.php');
@@ -174,7 +174,7 @@ if(isset($_POST['forgot'])){
         You recently requested to reset your password for your Musical World account.Click the button below to reset it. <br>
         <br><br>
         
-        <button type='button' class='btn btn-secondary'><a href='http://localhost/musical_world/reset_password.php'>Reset Password</a></button>
+        <button type='button' class='btn btn-secondary'><a href='http://localhost/project2/reset_password.php'>Reset Password</a></button>
 
         <br><br>
 

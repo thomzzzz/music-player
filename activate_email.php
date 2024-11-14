@@ -36,7 +36,7 @@
 	------------------------
 	 
 	Please click this link to activate your account:----------------------<br><br><br><br>
-	http://localhost/musical_world/verify.php?email_address=".$_SESSION['email_address']."&activation_code=".$_SESSION['activation_code']."  "; // Our message above including the link
+	http://localhost/project2/verify.php?email_address=".$_SESSION['email_address']."&activation_code=".$_SESSION['activation_code']."  "; // Our message above including the link
 
 	if(!$mail->send()){
 	    echo 'Message could not be sent.';
