@@ -1,8 +1,8 @@
 # Musical-World
-Musical World is a web application that basically alow user to ulpoad their own songs and can listen to already uploaded songs and can add their song into favorite list.
+Musical World is a web application that allows users to ulpoad their own songs listen to pre uploaded songs and also add their songs into their favorite list.
 This project contains admin side as well as user side.
-User has to first register to the portal before uploading songs.
-The account verification mechanism have been included in the project to verify user authentication.
+User has to first register at the portal before uploading songs.
+The account verification mechanism has been included in the project to verify user authentication.
 
 *create database named "project2" at back-end and import the code tables.sql file inside databse folder to get access to database*
 
